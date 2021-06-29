@@ -1,6 +1,6 @@
-# test
-test
+# Account ID Finder
+Account ID Finder
 
-ok so this will find the account id of any gd account. code is slightly modified so player names can be inputted when the .py file is opened by the user, instead of having to modify the actual code every time.
+Ok so this will find the account ID of any GD account. Code is slightly modified so player names can be inputted when the .py file is opened by the user, instead of having to modify the actual code every time.
 
-i plan to add a way to do multiple ids at once, shouldn't be too hard.
+I plan to add a way to do multiple IDs at once, shouldn't be too hard.
